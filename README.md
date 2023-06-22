@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @BogdanPolischuk
 - 👀 I’m interested in QA Engeneering and AQA
 - 🌱 I’m currently learning Java and auto tools
-
-  -Im using
+-  Im using
 Tools and technologies:
 Java JUnit5 IntelliJ IDEA Selenide REST-Assured Selenoid Gradle Allure Report TestIT Github Jenkins Jira 
 <!---
